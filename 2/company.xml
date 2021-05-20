@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<company>
+	<name>IT Crowd Ltd</name>
+	<departments>
+		<department name="Desarrollo">
+			<employees>
+				<employee position="Programador">
+					<name>Paco</name>
+					<surname>Perez</surname>
+				</employee>
+				<employee position="Programador">
+					<name>Ana</name>
+					<surname>Perez</surname>
+				</employee>
+			</employees>
+		</department>
+
+		<department name="QA">
+			<employees>
+				<employee position="Tester">
+					<name>Laura</name>
+					<surname>Alvarez</surname>
+				</employee>
+				<employee position="Programador">
+					<name>John</name>
+					<surname>Smith</surname>
+				</employee>
+			</employees>
+		</department>
+
+		<department name="RRHH">
+			<employees>
+				<employee position="Director">
+					<name>Maria</name>
+					<surname>Jaso</surname>
+				</employee>
+				<employee position="Recruiter">
+					<name>Martin</name>
+					<surname>Smith</surname>
+				</employee>
+			</employees>
+		</department>
+	</departments>
+</company>
